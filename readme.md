@@ -1,3 +1,5 @@
+# basic-calculator-java
+
 This code is a Java implementation of a simple calculator application with a graphical user interface (GUI) built using the Swing library. Here's a breakdown of the code:
 
 Imports: The necessary classes are imported, including javax.swing.* for the GUI components, java.awt.* for layout and color classes, and java.awt.event.* for handling user events.
@@ -24,4 +26,3 @@ The code creates a calculator GUI with a display field and buttons for digits, o
 The GUI has a dark color scheme with customized colors for the background, buttons, and text. The buttons also have a hover effect to provide visual feedback when the user hovers over them.
 
 Overall, this code demonstrates the use of Swing components, layout managers, event handling, and basic arithmetic operations to create a functional calculator application with a graphical user interface.# basic-calculator-java
-# basic-calculator-java
